@@ -9,8 +9,8 @@ I'm currently diving into the world of software development and engineering, wit
 - ✨ **Coding challenges:** **[My LeetCode Solutions Repository](https://github.com/richardnklv/LeetCodeProblems)** for a deep dive into my problem-solving approach and coding skills in Java and Python.
 
 ### 📫 Contact: 
-- For an Internship / Job / Start-up Collaboration, or anything of interest
-- 📧 Email: richardnklv@outlook.com
+- **For an Internship / Job / Start-up Collaboration, or anything of interest**
+- 📧 Email: **richardnklv@outlook.com**
 
 ### 💼 Professional Skills
 - Software Development
