@@ -22,7 +22,7 @@ I'm currently diving into the world of software development and engineering, wit
 - Charisma; both with fellow men and in relationships
 
 ### 🔗 Connect with Me
-- [Instagram](https://www.instagram.com/richardnklv)
+- [Instagram](https://www.instagram.com/richard.nklv)
 
 <!--
 **richardnklv/richardnklv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
