@@ -24,6 +24,7 @@ I'm currently diving into the world of software development and entrepreneurship
 - Business; online businesses (ecom, etc.)
 - Working out; for physical aesthetics and well-being
 - Charisma; both with fellow men and in relationships
+- Spirituality; religion, philosophy, esotericism, mindset
 
 ### 🔗 Connect with Me
 - [Instagram](https://www.instagram.com/richard.nklv)
