@@ -1,11 +1,12 @@
 # Welcome! My name is Richard Nikolov 👋
 
-I'm currently diving into the world of software development and entrepreneurship, with a focus on honing my skills in Java and Python. I'm open to collaboration opportunities, including internships, job offers, start-up ventures, anything you find interesting, or if you just want to have a conversation with me.
+I'm currently diving into the world of software development and entrepreneurship, with a focus on honing my skills in Java and Python and now diving into PHP, Laravel, and VueJS. I'm open to collaboration opportunities, including internships, job offers, start-up ventures, anything you find interesting, or if you just want to have a conversation with me.
 
 
 ### 🚀 Coding Journey:
 - 🌱 Learning more about: Software Engineering Principles 
-- 🌐 **Languages:** **Java ☕️**, **Python 🐍**
+- 🌐 **Languages:** **Java ☕️**, **Python 🐍**, **PHP 🐘**
+- 🏛️ **Frameworks & Libraries:** **Laravel 🏗️**, **VueJS 🖼️**
 - ✨ **Coding challenges:** **[My LeetCode Solutions Repository 🌟](https://github.com/richardnklv/LeetCodeProblems)** for a deep dive into my problem-solving approach and coding skills in Java and Python.
 
 ### 📫 Contact: 
@@ -14,8 +15,8 @@ I'm currently diving into the world of software development and entrepreneurship
 
 ### 💼 Professional Skills
 - Progressing in Software Development
-- Object-Oriented Programming (Java, Python)
-- Web Development
+- Object-Oriented Programming (Java, Python, PHP)
+- Web Development with Java, Python, PHP, Laravel, and VueJS
 - Both a humble student and an enthusiastic leader
 - An unlimited supply of energy
 - Boundless creativity that I receive from higher dimensions
