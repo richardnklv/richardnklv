@@ -4,7 +4,7 @@ I'm currently diving into the world of software development and entrepreneurship
 
 
 ### 🚀 Coding Journey:
-- 🌱 Learning more about: Software Engineering Principles 
+- 🌱 Learning more about: Software Engineering
 - 🌐 **Languages:** **Java ☕️**, **Python 🐍**, **PHP 🐘**
 - 🏛️ **Frameworks & Libraries:** **Laravel 🏗️**, **VueJS 🖼️**
 - ✨ **Coding challenges:** **[My LeetCode Solutions Repository 🌟](https://github.com/richardnklv/LeetCodeProblems)** for a deep dive into my problem-solving approach and coding skills in Java and Python.
